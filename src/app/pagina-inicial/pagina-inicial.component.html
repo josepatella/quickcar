@@ -1,0 +1,12 @@
+<section class="container mt-3">
+  <div class="card mt-3" style="width: 18rem;" *ngFor="let carro of carros">
+    <div class="card-body">
+      <h5 class="card-title">{{ carro.modelo }}</h5>
+      <p class="card-text">{{ carro.ano }}</p>
+      <p class="card-text">{{ carro.km }} Km</p>
+      <p class="card-text"> {{ carro.cor }}</p>
+      <a href="#" class="btn btn-primary">Fazer uma oferta</a>
+    </div>
+  </div>
+</section>
+
