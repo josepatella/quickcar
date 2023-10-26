@@ -1,0 +1,16 @@
+{
+  "carros": [
+    {
+      "modelo": "Traker",
+      "ano": "2021",
+      "km": "50000",
+      "cor": "prata"
+    },
+    {
+      "modelo": "Gol",
+      "ano": "2021",
+      "km": "20000",
+      "cor": "prata"
+    }
+  ]
+}
