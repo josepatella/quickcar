@@ -4,13 +4,33 @@
       "modelo": "Traker",
       "ano": "2021",
       "km": "50000",
-      "cor": "prata"
+      "cor": "prata",
+      "id": 1
     },
     {
       "modelo": "Gol",
       "ano": "2021",
       "km": "20000",
-      "cor": "prata"
+      "cor": "preto",
+      "id": 2
+    }
+  ],
+  "ofertas": [
+    {
+      "nome": "José Francisco Dupuy Patella",
+      "telefone": "(51)9 8403-3750",
+      "email": "jfpatella@gmail.com",
+      "valor": 111111111111,
+      "mensagem": "jkkkkkkkkkkkkkkkk",
+      "id": 1
+    },
+    {
+      "nome": "Alice Canabarro",
+      "telefone": "(51)9 8403-3750",
+      "email": "jose_patella@estudante.sesisenai.org.br",
+      "valor": 55555555555,
+      "mensagem": "kijkkkkkkkkkkkkkkk",
+      "id": 2
     }
   ]
 }
